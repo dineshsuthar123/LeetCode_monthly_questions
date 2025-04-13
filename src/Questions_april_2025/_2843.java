@@ -1,4 +1,4 @@
-package Questions_april_2025;
+
 
 public class _2843 {
     public static void main(String[] args) {
