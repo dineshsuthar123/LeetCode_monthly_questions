@@ -38,6 +38,5 @@ public class _3085 {
         if (!sc.hasNextInt()) return;
         int k = sc.nextInt();
         System.out.println(minimumDeletions(word, k));
-        sc.close();
     }
 }
